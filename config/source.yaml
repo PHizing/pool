@@ -47,6 +47,9 @@
     url: https://merlinblog.xyz/wiki/freess.html
 - type: webfuzz
   options:
+    url: https://telete.in/s/Accbox_pro?after=1
+- type: webfuzz
+  options:
     url: https://github.com/umelabs/node.umelabs.dev
 - type: webfuzz
   options:
@@ -187,8 +190,9 @@
     num: 200
 - type: tgchannel
   options:
-    channel: youmtp
+    channel: VPNFolder
     num: 200
+
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
