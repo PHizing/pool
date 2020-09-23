@@ -1,5 +1,5 @@
 # your domain
-domain: huoche.herokuapp.com
+domain: example.com
 
 # database url
 database_url: ""
